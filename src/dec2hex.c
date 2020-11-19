@@ -44,6 +44,7 @@ int main(int argc, char * argv[]){
                 break;
             case 14:
                 out[pos] = 'E';
+                break;
             case 15:
                 out[pos] = 'F';
                 break;
